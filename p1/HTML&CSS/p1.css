@@ -1,0 +1,60 @@
+.shit{
+    font-size: 45px;
+    color: black;
+    text-align: center;
+    position: absolute;
+    top: 600px;
+    left: 820px;
+    text-decoration: none;
+}
+
+.shit2{
+    font-size: 45px;
+    color: black;
+    text-align: center;
+    position: absolute;
+    top: 650px;
+    left: 820px;
+    text-decoration: none;
+}
+
+.page{
+    font-size: 45px;
+    color: #FFA73E;
+    text-decoration: none;
+    position: fixed;
+    top: 850px;
+    left: 120px;
+    text-align: center;
+    position: absolute;
+}
+
+.page2{
+    font-size: 45px;
+    color: #FFA73E;
+    text-decoration: none;
+    position: fixed;
+    top: 800px;
+    left: 120px;
+    text-align: center;
+    position: absolute;
+}
+
+
+.bg {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: fill;
+    z-index: -1;
+    right: 0px;
+    bottom: 0px;
+}
+
+.audio{
+    position: fixed;
+    top: 850px;
+    left: 1600px;
+}
+
